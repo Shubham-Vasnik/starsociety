@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    color:white;
+  }
+  
+  .mycontent{
+      margin-top: 50px!important;
+  }
+
+  .nav-link{
+      color: white;
+  }
+
+  .nav-link:hover{
+      color:#eba014;
+      font-size: 1.1rem;
+  }
+
+.navbar-brand{
+    color:white;
+}
+
+.navbar-brand:hover{
+    color:#eba014;
+    font-size: 1.35rem;
+}
